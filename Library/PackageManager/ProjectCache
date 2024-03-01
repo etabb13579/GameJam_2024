@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638449325943404325
-    m_Hash: 790001904
+      ticks: 638449330996894096
+    m_Hash: 2328237353
   m_LockFileStatus:
     m_FilePath: C:/Users/Owner/Documents/GitHub/GameJam_2024/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638449325943444498
-    m_Hash: 1215835062
+      ticks: 638449330996894096
+    m_Hash: 3527126704
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
