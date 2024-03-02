@@ -357,6 +357,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/scripts/damage.cs"
+"Assets/scripts/enemyattractor.cs"
 "Assets/scripts/gamemanager.cs"
 "Assets/scripts/GameOverScript.cs"
 "Assets/scripts/HealthBar.cs"

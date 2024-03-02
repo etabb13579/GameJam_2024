@@ -8,11 +8,12 @@ TagManager:
   - HealthSlider
   - healthSlider
   - post
+  - enemyLayer
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - enemy
   - Water
   - UI
   - 
