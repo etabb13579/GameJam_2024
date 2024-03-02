@@ -365,6 +365,7 @@
 "Assets/scripts/PlayerHealth.cs"
 "Assets/scripts/PlayerMovement.cs"
 "Assets/scripts/speed.cs"
+"Assets/scripts/thirdperson.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
